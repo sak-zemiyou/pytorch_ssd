@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_30.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>545</ymin>
+			<xmax>277</xmax>
+			<ymax>1252</ymax>
+		</bndbox>
+	</object>
+</annotation>

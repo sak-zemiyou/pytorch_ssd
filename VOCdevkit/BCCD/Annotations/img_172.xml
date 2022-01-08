@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_172.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>87</ymin>
+			<xmax>403</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

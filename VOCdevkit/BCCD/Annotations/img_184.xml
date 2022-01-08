@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_184.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_184.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>male</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>104</ymin>
+			<xmax>334</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
