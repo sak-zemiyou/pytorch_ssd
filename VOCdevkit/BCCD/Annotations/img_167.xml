@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_167.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>female</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>21</ymin>
+			<xmax>597</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

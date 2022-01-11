@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_195.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>505</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>male</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>74</ymin>
+			<xmax>741</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>
