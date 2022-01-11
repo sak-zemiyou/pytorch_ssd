@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_232.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>male</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>25</ymin>
+			<xmax>287</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
