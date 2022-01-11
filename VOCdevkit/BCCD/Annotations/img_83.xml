@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_83.jpg</filename>
+	<path>C:\Users\r201803704xj\Pictures\img\img_83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>46</ymin>
+			<xmax>903</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>
